@@ -1,0 +1,7 @@
+# Configurar Domínio
+
+abrir app/config/config.php > Configurar a bariável $config['base_url'] com o domínio(Ex.: localhost/dvcash)
+
+# Configurar Banco de dado
+
+abrir app/config/dvcash.php > colocar informações do banco de dados
